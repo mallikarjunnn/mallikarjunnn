@@ -17,15 +17,6 @@ With hands-on experience in **HTML, CSS, JavaScript, React, and Microservices**,
 
 ---
 
-## 🚀 Featured Projects  
-
-| 🌟 Project | 📄 Description | 🛠️ Tech stack |
-|------------|---------------|---------------|
-| **YouTube Clone** | My first front-end project—recreated YouTube’s UI with pure HTML & CSS. | HTML, CSS |
-| **Microservices App** | A demo project exploring independent services & communication patterns. | HTML, JavaScript |
-
----
-
 ## 🧰 Tools & Technologies  
 
 - ⚡ **Languages:** HTML, CSS, JavaScript  
